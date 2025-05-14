@@ -1,23 +1,32 @@
-## Hey there 👋
-My name is Mohamed Roble and Im a college student majoring in Computer Science and learning how to build things in the cloud.
+# 👻 Mohamed Roble
 
+Hi there! I'm **Mohamed Roble** — a computer science student focusing on **Cloud Engineering** and **DevOps**. I’m passionate about building reliable, automated, and scalable systems using open-source tools and modern cloud technologies.
 
-🔭 I’m currently working on becoming a cloud engineer
-🌱 I’m currently learning how version control works like Git and Github
-👯 I’m looking to collaborate on with other cloud engineers or people who are learning like me
-🤔 I’m looking for help with  Guidance on how to be a cloud engineer
-💬 Ask me about Sports and food
-📫 How to reach me email/linkedIN
-⚡ Fun fact: I like football
--->
+---
 
+## 🧠 What I Do
 
+- 🚀 Learning and building in **Cloud & DevOps**
+- 🛠️ Working with tools like Docker, GitHub Actions, and Terraform
+- 💻 Writing scripts in **Python**, **Bash**, and **Java**
+- 📚 Documenting everything to share what I learn
 
-Contact Info:
+---
 
-Email, LinkedIN
+## 🧰 Tech Stack
 
+- **Languages:** Python · Bash · Java  
+- **Version Control:** Git · GitHub  
+- **Cloud & DevOps:** Docker (learning in progress) · CI/CD (learning in progress) · Linux · AWS (learning in progress)  
+- **Workflow:** Automate. Deploy. Repeat.
 
+---
 
+## 📫 Get in Touch
 
-TECH STACK
+- [LinkedIn](https://www.linkedin.com/in/mohamedroble1/)  
+- 📧 Email: `roble20242025@gmail.com`
+
+---
+
+*Always learning. Always building.*
