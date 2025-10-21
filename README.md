@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Roble</h1>
 <h3 align="center">I design, automate, and secure cloud infrastructure</h3>
 
-- ⚡ Fun fact **I got my interest in building systems from sports tactics like football and Basketball**
+- ⚡ Fun fact **I got my interest in building systems from analyzing Arsenal football tactics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
