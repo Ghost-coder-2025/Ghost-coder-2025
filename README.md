@@ -1,10 +1,10 @@
-## Hi there, my name is Mohamed 👋
+## Hi there, my name is Mohamed Roble 👋
 
 IT Infrastructure student with hands-on experience in Linux system administration, network services, and help desk support. Working toward CompTIA A+, with a longer-term path into sysadmin and cloud/Azure administration.
 
 ### 🔭 Currently
 - 🎓 Studying IT Infrastructure (Networking & Cloud) at University of Minnesota
-- 📚 Working toward CompTIA A+
+- 📚 Working toward AZ-104
 - 🏗️ Building "Northwood Regional Health" — a simulated healthcare IT infrastructure lab (AD, GPOs, Windows Server 2022)
 
 
@@ -31,4 +31,4 @@ IT Infrastructure student with hands-on experience in Linux system administratio
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### Certifications
-🏅 CompTIA A+ (In Progress)
+🏅 AZ-104 (In Progress)
