@@ -1,6 +1,6 @@
 ## Hi there, my name is Mohamed Roble 👋
 
-IT Infrastructure student with hands-on experience in Linux system administration, network services, and help desk support. Working toward CompTIA A+, with a longer-term path into sysadmin and cloud/Azure administration.
+IT Infrastructure student with hands-on experience in Linux system administration, network services, and help desk support. Working toward AZ-104, with a longer-term path into sysadmin and cloud/Azure administration.
 
 ### 🔭 Currently
 - 🎓 Studying IT Infrastructure (Networking & Cloud) at University of Minnesota
